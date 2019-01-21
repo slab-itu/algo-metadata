@@ -1,1 +1,1 @@
-This folder contains data and code to reproduce the analysis presented in manuscript "Bibliometric-enhanced Information Retrieval: A Novel Deep Feature Engineering Approach for Algorithm Searching from Full-text Publications" submitted to Scientometrics journal.
+This folder contains data and code to reproduce the analysis presented in the paper "Automatic Extraction of Algorithmic Metadata Sentences in Full-text Scholarly Documents" submitted at JCDL 2019.
